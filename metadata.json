@@ -1,0 +1,5 @@
+{
+  "name": "MyShelf - AI Powered Book Tracker",
+  "description": "A sophisticated book tracking application that leverages the Google Gemini API to provide personalized reading recommendations based on your unique tastes and ratings.",
+  "requestFramePermissions": []
+}
